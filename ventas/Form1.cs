@@ -19,7 +19,7 @@ namespace ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Mundo");
+            MessageBox.Show("Debes hacer las cosas que crees que no puedes hacer");
         }
     }
 }
